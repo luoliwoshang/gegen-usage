@@ -1,0 +1,8 @@
+github.com/goplus/gogen v1.16.0 h1:hAK2ZX8vCjH+Y2QoJl9viSZ8Gw9pzE0vCz5voYBYnv4=
+github.com/goplus/gogen v1.16.0/go.mod h1:92qEzVgv7y8JEFICWG9GvYI5IzfEkxYdsA1DbmnTkqk=
+github.com/goplus/llgo v0.9.7 h1:LRF2Fq9ts4QrVxOPZufexalbIoJ1oiBERjCWQ45wxbg=
+github.com/goplus/llgo v0.9.7/go.mod h1:5Fs+08NslqofJ7xtOiIXugkurYOoQvY02ZkFNWA1uEI=
+golang.org/x/mod v0.16.0 h1:QX4fJ0Rr5cPQCF7O9lh9Se4pmwfwskqZfq5moyldzic=
+golang.org/x/sync v0.6.0 h1:5BMeUDZ7vkXGfEr1x9B4bRcTH4lpkTkpdh0T/J+qjbQ=
+golang.org/x/tools v0.19.0 h1:tfGCXNR1OsFG+sVdLAitlpjAvD/I6dHDKnYrpEZUHkw=
+golang.org/x/tools v0.19.0/go.mod h1:qoJWxmGSIBmAeriMx19ogtrEPrGtDbPK634QFIcLAhc=
