@@ -18,7 +18,7 @@ func main() {
 		types.NewVar(token.NoPos, pkg.Types, "message", types.Typ[types.String]), // message string
 		types.NewVar(token.NoPos, pkg.Types, "start", c.Ref("Char").Type()),      //start (int8) c.Char
 
-		types.NewVar(token.NoPos, pkg.Types, "start", types.NewNamed(types.NewTypeName(token.NoPos, pkg.Types, "Char", nil), c.Ref("Char").Type(), nil)), // Char
+		// types.NewVar(token.NoPos, pkg.Types, "start", types.NewNamed(types.NewTypeName(token.NoPos, pkg.Types, "Char", nil), c.Ref("Char").Type(), nil)), // Char
 		types.NewVar(token.NoPos, pkg.Types, "f", oss.Ref("File").Type().(*types.Named)),
 
 		// types.NewVar(token.NoPos, pkg.Types, "start", c.Ref("Char").Type().(*types.Named))
